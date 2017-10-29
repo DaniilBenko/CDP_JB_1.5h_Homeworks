@@ -1,0 +1,11 @@
+bin/*
+out/*
+.idea/*
+*.iml
+src/by/epam/jb/l1_1/*
+src/by/epam/jb/l1_2/*
+src/by/epam/jb/l1_3/*
+src/by/epam/jb/l1_4/*
+src/by/epam/jb/l1_5/*
+src/by/epam/jb/less01/*
+src/by/epam/jb/less01_1/*
